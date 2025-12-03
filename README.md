@@ -1,13 +1,10 @@
-## Hey there! I'm Karim
+## Hey there! 👋
+I'm Karim. I build software and machine-learning systems.
+Sometimes on purpose. Sometimes by accident. Always without coffee.
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 About Me
 
-- 🎓 &nbsp; Computer Engineering student at Ain Shams University  
-- 🔧 &nbsp; Passionate about building real-world software — from systems to intelligent apps  
-- 💡 &nbsp; Comfortable across the stack: algorithms, backend, data, ML, and deployment  
-- 🌱 &nbsp; Currently learning more about scalable systems, DevOps, and advanced ML
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiyk0&theme=dark&show_icons=true" alt="Karim's GitHub Stats" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyk0&theme=dark&layout=compact" alt="Top Languages" height="140" />
-</p>
+- 🎓 &nbsp; Computer Engineering student at Ain Shams University
+- 🔧 &nbsp; Passionate about building real-world software — from system-level components to intelligent applications
+- 💡 &nbsp; Comfortable across the stack: algorithms, backend engineering, data processing, machine learning, and deployment
+- 🌱 &nbsp; Currently learning more about scalable systems, DevOps practices, and advanced ML techniques
